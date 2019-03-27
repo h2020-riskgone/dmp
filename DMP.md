@@ -1,4 +1,7 @@
-![](media/image4.png)
+---
+layout: default
+title: RiskGONE Data Management Plan
+---
 
 # RiskGONE Data Management Plan
 

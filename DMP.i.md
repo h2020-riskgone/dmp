@@ -1,3 +1,8 @@
+---
+layout: default
+title: <project/> Data Management Plan
+---
+
 # <project/> Data Management Plan
 
 ## Table of contents  
