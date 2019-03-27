@@ -1,6 +1,8 @@
 # RiskGONE Data Management Plan
 
-This repository contains a Markdown version of the [NanoCommons Data Management Plan](DMP.md). The authors are listed in the [AUTHORS](AUTHORS.md) file
+Status: this version is not released, very initial outline. It is not the final DMP.
+
+This repository contains a Markdown version of the [RiskGONE Data Management Plan](DMP.md). The authors are listed in the [AUTHORS](AUTHORS.md) file
 and the license is given in the [LICENSE](LICENSE.md) file. The CC-BY license allows reuse but requires attribution. All authors and projects must
 be acknowledged in derived versions. That must include acknowleding the European Union funding all contributing projects received in the past.
 
