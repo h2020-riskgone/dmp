@@ -1,5 +1,3 @@
-![](media/image4.png)
-
 # <project/> Data Management Plan
 
 ## Table of contents  
