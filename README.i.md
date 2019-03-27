@@ -22,5 +22,5 @@ groovy createMarkdown.groovy DMP.i.md <project/> <grant/> > DMP.md
 
 ## Acknowledgments
 
-This project has received funding for <project> from European Union Horizon 2020 Programme (H2020) under grant agreement nº <grant/>.
-This project has received funding for NanoCommons from European Union Horizon 2020 Programme (H2020) under grant agreement nº 731032.
+This <project/> DMP has received funding from European Union Horizon 2020 Programme (H2020) under grant agreement nº <grant/>.
+It is based on the NanoCommons DMP, which has received funding from European Union Horizon 2020 Programme (H2020) under grant agreement nº 731032.
