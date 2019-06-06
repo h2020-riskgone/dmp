@@ -50,7 +50,7 @@ title: RiskGONE Data Management Plan
 ## Summary 
 
 This deliverable presents the initial data management plan (DMP) for the
-starting community research infrastructure RiskGONE (grant no 731032). It is a living
+starting community research infrastructure RiskGONE (grant no 814425). It is a living
 document that will be updated over the course of the project, with the
 final plan to be delivered at the end of the project. We anticipate that
 at least two other versions of the plan will be developed, to accommodate
